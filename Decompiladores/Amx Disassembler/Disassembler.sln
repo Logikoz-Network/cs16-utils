@@ -1,0 +1,101 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amx", "Amx\Amx.csproj", "{4EC67BB0-F699-42DC-8A34-DCEA93D7CD7D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View.Scasm", "View.Scasm\View.Scasm.csproj", "{81E4ED81-5D33-4911-ADB0-6FDE01FA7166}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View.WindowsForms", "View.WindowsForms\View.WindowsForms.csproj", "{7F595FDF-2E4B-4283-A8B4-02E00B5AFD7C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filetype.Amx", "Filetype.Amx\Filetype.Amx.csproj", "{04AC1D05-3630-432D-93E9-C8DC19566604}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filetype.Amxx", "Filetype.Amxx\Filetype.Amxx.csproj", "{EEF4A89E-C5DF-469C-A120-05A52B255FD8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filetype.Ramx", "Filetype.Ramx\Filetype.Ramx.csproj", "{77532946-F955-4288-A5AC-A1825877EB91}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows GUI", "Windows GUI\Windows GUI.csproj", "{31E60211-6061-41EA-8CFF-D128A6E3B7E0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amx.Disassembly", "Amx.Disassembly\Amx.Disassembly.csproj", "{BCC079A4-B519-40D8-AD7B-4A25E55188FF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filetypes", "Filetypes\Filetypes.csproj", "{2B26F22F-FF26-46DB-B339-B23A85DB07E6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{95F30D03-93D5-4AE7-A141-3D0CDCFF91ED}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Views", "Views\Views.csproj", "{88D01F02-5578-4C21-B634-4B83C9E2FFB6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4EC67BB0-F699-42DC-8A34-DCEA93D7CD7D}.Debug.ActiveCfg = Debug|.NET
+		{4EC67BB0-F699-42DC-8A34-DCEA93D7CD7D}.Debug.Build.0 = Debug|.NET
+		{4EC67BB0-F699-42DC-8A34-DCEA93D7CD7D}.Release.ActiveCfg = Release|.NET
+		{4EC67BB0-F699-42DC-8A34-DCEA93D7CD7D}.Release.Build.0 = Release|.NET
+		{81E4ED81-5D33-4911-ADB0-6FDE01FA7166}.Debug.ActiveCfg = Debug|.NET
+		{81E4ED81-5D33-4911-ADB0-6FDE01FA7166}.Debug.Build.0 = Debug|.NET
+		{81E4ED81-5D33-4911-ADB0-6FDE01FA7166}.Release.ActiveCfg = Release|.NET
+		{81E4ED81-5D33-4911-ADB0-6FDE01FA7166}.Release.Build.0 = Release|.NET
+		{7F595FDF-2E4B-4283-A8B4-02E00B5AFD7C}.Debug.ActiveCfg = Debug|.NET
+		{7F595FDF-2E4B-4283-A8B4-02E00B5AFD7C}.Debug.Build.0 = Debug|.NET
+		{7F595FDF-2E4B-4283-A8B4-02E00B5AFD7C}.Release.ActiveCfg = Release|.NET
+		{7F595FDF-2E4B-4283-A8B4-02E00B5AFD7C}.Release.Build.0 = Release|.NET
+		{04AC1D05-3630-432D-93E9-C8DC19566604}.Debug.ActiveCfg = Debug|.NET
+		{04AC1D05-3630-432D-93E9-C8DC19566604}.Debug.Build.0 = Debug|.NET
+		{04AC1D05-3630-432D-93E9-C8DC19566604}.Release.ActiveCfg = Release|.NET
+		{04AC1D05-3630-432D-93E9-C8DC19566604}.Release.Build.0 = Release|.NET
+		{EEF4A89E-C5DF-469C-A120-05A52B255FD8}.Debug.ActiveCfg = Debug|.NET
+		{EEF4A89E-C5DF-469C-A120-05A52B255FD8}.Debug.Build.0 = Debug|.NET
+		{EEF4A89E-C5DF-469C-A120-05A52B255FD8}.Release.ActiveCfg = Release|.NET
+		{EEF4A89E-C5DF-469C-A120-05A52B255FD8}.Release.Build.0 = Release|.NET
+		{77532946-F955-4288-A5AC-A1825877EB91}.Debug.ActiveCfg = Debug|.NET
+		{77532946-F955-4288-A5AC-A1825877EB91}.Debug.Build.0 = Debug|.NET
+		{77532946-F955-4288-A5AC-A1825877EB91}.Release.ActiveCfg = Release|.NET
+		{77532946-F955-4288-A5AC-A1825877EB91}.Release.Build.0 = Release|.NET
+		{31E60211-6061-41EA-8CFF-D128A6E3B7E0}.Debug.ActiveCfg = Debug|.NET
+		{31E60211-6061-41EA-8CFF-D128A6E3B7E0}.Debug.Build.0 = Debug|.NET
+		{31E60211-6061-41EA-8CFF-D128A6E3B7E0}.Release.ActiveCfg = Release|.NET
+		{31E60211-6061-41EA-8CFF-D128A6E3B7E0}.Release.Build.0 = Release|.NET
+		{BCC079A4-B519-40D8-AD7B-4A25E55188FF}.Debug.ActiveCfg = Debug|.NET
+		{BCC079A4-B519-40D8-AD7B-4A25E55188FF}.Debug.Build.0 = Debug|.NET
+		{BCC079A4-B519-40D8-AD7B-4A25E55188FF}.Release.ActiveCfg = Release|.NET
+		{BCC079A4-B519-40D8-AD7B-4A25E55188FF}.Release.Build.0 = Release|.NET
+		{2B26F22F-FF26-46DB-B339-B23A85DB07E6}.Debug.ActiveCfg = Debug|.NET
+		{2B26F22F-FF26-46DB-B339-B23A85DB07E6}.Debug.Build.0 = Debug|.NET
+		{2B26F22F-FF26-46DB-B339-B23A85DB07E6}.Release.ActiveCfg = Release|.NET
+		{2B26F22F-FF26-46DB-B339-B23A85DB07E6}.Release.Build.0 = Release|.NET
+		{95F30D03-93D5-4AE7-A141-3D0CDCFF91ED}.Debug.ActiveCfg = Debug|.NET
+		{95F30D03-93D5-4AE7-A141-3D0CDCFF91ED}.Debug.Build.0 = Debug|.NET
+		{95F30D03-93D5-4AE7-A141-3D0CDCFF91ED}.Release.ActiveCfg = Release|.NET
+		{95F30D03-93D5-4AE7-A141-3D0CDCFF91ED}.Release.Build.0 = Release|.NET
+		{88D01F02-5578-4C21-B634-4B83C9E2FFB6}.Debug.ActiveCfg = Debug|.NET
+		{88D01F02-5578-4C21-B634-4B83C9E2FFB6}.Debug.Build.0 = Debug|.NET
+		{88D01F02-5578-4C21-B634-4B83C9E2FFB6}.Release.ActiveCfg = Release|.NET
+		{88D01F02-5578-4C21-B634-4B83C9E2FFB6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
